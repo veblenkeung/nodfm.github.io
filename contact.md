@@ -1,19 +1,19 @@
 ---
 layout: page
-title: Contact
+title: 听友反馈
 permalink: /contact/
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+想听任何内容，或者对节目有任何建议，欢迎告诉我们。你的反馈是帮助浓度播客成长的最佳助力。
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `_js/scripts.js` and `.config.yml`. 
+### 反馈方式
 
-Check the form below to see it in action!
+* [问卷调查](https://www.surveycake.com/s/WAerv)
+* [电子邮件](mailto:{{hi@nod.fm}}) 
 
-### Example Formspree contact form with validation and reCaptcha
 
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+### 节目预告
 
-{% include form.html %}
+2020.07.15｜偷看心上人，也许是课间操唯一的意义。
+2020.06.15｜你有多久没写信了，有多久没发短信给朋友了呢。
 
-{% include modal.html %}
