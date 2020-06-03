@@ -16,7 +16,7 @@ permalink: /about/
 * [Apple Podcasts](https://www.instagram.com/nod.fm/)
 * [喜马拉雅](https://www.ximalaya.com/shishang/38564283/)
 * [网易云音乐](https://music.163.com/#/djradio?id=794485631)
-* [如果你使用其他客户端，请尝试在应用内搜索「浓度播客」]
+* 如果你使用其他客户端，请尝试在应用内搜索「浓度播客」
 
 
 ### 赞助支持
@@ -25,7 +25,7 @@ permalink: /about/
 
 ### 联系方式
 
-* 来信：[hi@nod.fm](hi@nod.fm)
+* 来信：hi@nod.fm
 * 微博：[浓度播客](//weibo.com/nongduorg)
 * instagram：[nod.fm](https://www.instagram.com/nod.fm/)
 * 公众号：搜索「浓度播客」
