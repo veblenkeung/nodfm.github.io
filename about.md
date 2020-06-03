@@ -26,7 +26,7 @@ permalink: /about/
 
 ### 反馈方式
 
-对节目有任何建议，欢迎填写[问卷调查](https://jinshuju.net/f/pMlrvB)告诉我们。你的反馈是帮助我们成长的最佳助力。
+对节目有任何建议，欢迎填写[问卷调查](https://jinshuju.net/f/pMlrvB)告诉我们。
 
 
 ### 联系方式
