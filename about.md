@@ -23,17 +23,18 @@ permalink: /about/
 
 浓度播客无任何形式的赞助。如果你喜欢我们的节目，请关注、点赞、评论，你的支持是我们更新的最大动力。
 
+
+### 反馈方式
+
+对节目有任何建议，欢迎填写[问卷调查](https://www.surveycake.com/s/WAerv)告诉我们。你的反馈是帮助我们成长的最佳助力。
+
+
 ### 联系方式
 
 * 来信：hi@nod.fm
 * 微博：[浓度播客](//weibo.com/nongduorg)
 * instagram：[nod.fm](https://www.instagram.com/nod.fm/)
 * 公众号：搜索「浓度播客」
-
-
-### 反馈方式
-
-对节目有任何建议，欢迎告诉我们[问卷调查](https://www.surveycake.com/s/WAerv)。你的反馈是帮助我们成长的最佳助力。
 
 
 ### 版权声明
