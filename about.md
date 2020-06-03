@@ -31,6 +31,11 @@ permalink: /about/
 * 公众号：搜索「浓度播客」
 
 
+### 反馈方式
+
+对节目有任何建议，欢迎告诉我们[问卷调查](https://www.surveycake.com/s/WAerv)。你的反馈是帮助我们成长的最佳助力。
+
+
 ### 版权声明
 
 本台所有节目均采用 [署名-非商业性使用-禁止演绎 4.0 国际](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 进行许可。
