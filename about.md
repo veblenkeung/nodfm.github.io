@@ -13,7 +13,7 @@ permalink: /about/
 
 ### 订阅收听
 
-* [Apple Podcasts](https://www.instagram.com/nod.fm/)
+* [Apple Podcasts](https://podcasts.apple.com/cn/podcast/%E6%B5%93%E5%BA%A6/id1516437399)
 * [喜马拉雅](https://www.ximalaya.com/shishang/38564283/)
 * [网易云音乐](https://music.163.com/#/djradio?id=794485631)
 * 如果你使用其他客户端，请尝试在应用内搜索「浓度播客」
