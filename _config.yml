@@ -48,7 +48,3 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-
-  [user]
-name = veblenkeung
-email = jiangyiqiu108@
